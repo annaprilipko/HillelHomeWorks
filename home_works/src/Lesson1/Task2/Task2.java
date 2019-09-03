@@ -11,7 +11,13 @@ public class Task2 {
 
         int yearForCentury = Integer.parseInt(reader.readLine());
 
-        int century = yearForCentury/100 + 1;
+        int century;
+
+        if(yearForCentury%100 == 0){
+            century = yearForCentury/100;
+        } else {
+            century = yearForCentury / 100 + 1;
+        }
 
         System.out.println(century);
     }

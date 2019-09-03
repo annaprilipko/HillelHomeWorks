@@ -21,6 +21,7 @@ public class Task7 {
         System.out.println(divisibleByThree("100853")); // false
         System.out.println(divisibleByThree("33333333")); // true
         System.out.println(divisibleByThree("7")); // false
+        System.out.println(divisibleByThree("0")); // false
     }
 
     public static boolean divisibleByThree(String str){
@@ -33,7 +34,7 @@ public class Task7 {
             sum += a;
         }
 
-        if( sum % 3 == 0 )result = true;
+        if( sum % 3 == 0 && !str.equals("0"))result = true;
 
         return result;
     }

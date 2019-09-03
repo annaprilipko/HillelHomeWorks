@@ -20,7 +20,7 @@ public class Task8 {
 
     public static void formatDuration(long number){
 
-        long years, days, hours, minutes, seconds;
+        long years = 0, days = 0, hours = 0, minutes = 0, seconds = 0;
 
         if (number < 0) System.out.println("Ошибка");
         else if (number == 0) System.out.println("Сейчас");
@@ -31,8 +31,21 @@ public class Task8 {
             minutes = (number - (years * 365 * 24 * 60 * 60) - (days * 24 * 60 * 60) - (hours * 60 * 60)) / 60;
             seconds = number - (years * 365 * 24 * 60 * 60) - (days * 24 * 60 * 60) - (hours * 60 * 60) - (minutes * 60);
 
-            System.out.println(years + " years " + "end " + days + " days " + "end " + hours + " hours " + "end " + minutes + " minutes " + "end " + seconds + " seconds");
-        }
+            if(years == 1)System.out.print(years + " year, ");
+            else if(years > 0) System.out.print(years + " years, ");
 
+            if(days == 1)System.out.print(days + " day, ");
+            else if(days > 0) System.out.print(days + " days, ");
+
+            if(hours == 1)System.out.print(hours + " hour, ");
+            else if(hours > 0) System.out.print(hours + " hours, ");
+
+            if(minutes == 1)System.out.print(minutes + " minute, ");
+            else if(minutes > 0) System.out.print(minutes + " minutes and ");
+
+            if(seconds == 1)System.out.print(seconds + " second, ");
+            else if(seconds > 0) System.out.print(seconds + " seconds");
+            System.out.println();
+        }
     }
 }

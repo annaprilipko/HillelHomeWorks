@@ -1,4 +1,4 @@
-package Task7;
+package Lesson1.Task7;
 
 /* By 3, or not by 3?
 A trick I learned in elementary school to determine whether or not a number was divisible by three is to add

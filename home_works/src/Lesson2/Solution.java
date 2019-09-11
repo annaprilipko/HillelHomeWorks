@@ -4,7 +4,7 @@ package Lesson2;
 public class Solution {
 
     public static void main(String []args){
-        Student[] arr = new Student[4];
+        Student[] arr = new Student[10];
         for(int i = 0; i < arr.length; i++){
             arr[i] = StudentFactory.creat();
         }
@@ -20,11 +20,10 @@ public class Solution {
         print(arr);
 
         System.out.println("Найденный студент по запрошенному имени:");
-        System.out.println(findByName("Катя", arr));
+        System.out.println(findByName("Ка", arr));
 
         System.out.println("Найденные студенты по запрошенному имени:");
-        print(findByNameMoreStudents("Катя", arr));
-        //System.out.println(findByNameMoreStudents("Катя", arr));
+        print(findByNameMoreStudents("Ка", arr));
     }
 
     public static void bubbleSortByName(Student[] arr){
@@ -58,7 +57,7 @@ public class Solution {
         Student foundedStudent = new Student();
 
         for(int i = 0; i < arr.length; i++){
-            if(arr[i].name.equals(str)) {
+            if(arr[i].name.contains(str)) {
                 foundedStudent = arr[i];
             }
         }
@@ -66,14 +65,20 @@ public class Solution {
     }
 
     public static Student[] findByNameMoreStudents(String str, Student[] arr){
-        Student[] foundedStudents = new Student[arr.length];
+        Student[] draftFoundedStudents = new Student[arr.length];
         int counter = 0;
 
         for(int i = 0; i < arr.length; i++){
-            if(arr[i].name.equals(str)) {
-                foundedStudents[counter] = arr[i];
+            if(arr[i].name.contains(str)) {
+                draftFoundedStudents[counter] = arr[i];
                 counter++;
             }
+        }
+
+        Student[] foundedStudents = new Student[counter];
+
+        for(int i = 0; i < counter; i++){
+            foundedStudents[i] = draftFoundedStudents[i];
         }
 
         return foundedStudents;

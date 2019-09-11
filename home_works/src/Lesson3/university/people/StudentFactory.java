@@ -1,4 +1,4 @@
-package Lesson2;
+package Lesson3.university.people;
 
 public class StudentFactory {
 
@@ -10,7 +10,7 @@ public class StudentFactory {
 
         student.name = names[(int)(Math.random()*names.length-1)];
         student.age = (int)(Math.random()*100);
-        student.mark = (int)(Math.random()*10);
+        student.mark = Math.random()*10;
 
         return student;
     }

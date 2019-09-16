@@ -2,12 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="957c102e-fc5f-4092-bca1-b48db6fe3544" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson3/university/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson3/university/people/StudentFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task1/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Carpet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Chandelier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Curtains.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/FlowerPot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Computer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/audioSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Armchair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Cabinet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Chair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Couch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Table.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task3/Building.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task3/CommercialBuilding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task3/ResidentialBuilding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task3/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/Plants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Anthocerotophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Bryophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/HeadClassOfBryophytes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Marchantiophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Charophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Chlorophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/GreenAlgae.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Cycadophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Ginkgophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Gnetophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Magnoliophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Pinophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/SeedPlants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Equisetophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Lycopodiophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Pteridophyta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/VascularSpore.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task1/People.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Accessories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Equipment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Floor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Furniture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Room.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Wall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/task2/Сeiling.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Floor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Room.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Wall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Сeiling.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task1/People.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task1/Human.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Accessories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Equipment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Furniture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/Lesson2/Solution.class" afterPath="$PROJECT_DIR$/Lesson1/out/production/Home_Works/Lesson2/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home_works/src/Lesson2/Solution.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson2/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home_works/src/Lesson2/Student.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson2/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home_works/src/Lesson2/StudentFactory.java" afterPath="$PROJECT_DIR$/home_works/src/Lesson2/StudentFactory.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +68,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="People.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task1/People.java">
+      <file leaf-file-name="Plants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/Plants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="45" column="44" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pinophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Pinophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeedPlants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/SeedPlants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VascularSpore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/VascularSpore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Equisetophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Equisetophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lycopodiophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Lycopodiophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pteridophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Pteridophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gnetophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Gnetophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Magnoliophyta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Magnoliophyta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,50 +208,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Task2/Task2.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Task1.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Task3.java" />
-        <option value="$PROJECT_DIR$/src/Task4/Task4.java" />
-        <option value="$PROJECT_DIR$/src/Task5/Task5.java" />
-        <option value="$PROJECT_DIR$/src/Task6/Task6.java" />
-        <option value="$PROJECT_DIR$/src/Task7/Task7.java" />
-        <option value="$PROJECT_DIR$/src/Task8/Task8.java" />
-        <option value="$PROJECT_DIR$/Lesson2/src/Solution" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task1/Task1.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task6/Task6.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task5/Task5.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task4/Task4.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task3/Task3.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task2/Task2.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task8/Task8.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson1/Task7/Task7.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/people/Student.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/people/Teacher.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/unalive/Auditory.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/unalive/Faculty.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/unalive/Group.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/unalive/Cathedra.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/people/Teacher.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Auditory.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Faculty.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/Solution.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Group.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Cathedra.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/people/Student.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson3/university/people/StudentFactory.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Printer/delegatePrinter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Printer/nullPrinter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Printer/outPrinter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Printer/IStudentPrinter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Solution.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Converter/IStudentStringConverter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentINIConverter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentJSONConverter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentXMLConverter.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson5/Student/Student.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson2/Student.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson2/StudentFactory.java" />
-        <option value="$PROJECT_DIR$/home_works/src/Lesson2/Solution.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Armchair.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Table.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Cabinet.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Accessories.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Carpet.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Curtains.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/FlowerPot.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Chandelier.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Equipment.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/TV.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Computer.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/audioSystem.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/AdministrativeBuilding.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/ProductionBuilding.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/OtherBuilding.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/Building.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/CommercialBuilding.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/ResidentialBuilding.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task3/Solution.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/waterPlant.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Moss.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Fern.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Conifers.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/FloweringPlants.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/WaterPlant.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Trees.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/GreenAlgae.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Bryophytes.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Bryophytes.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/VascularSpore.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/SeedPlants.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Conifers.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/GreenAlgae.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/SeedPlants.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/VascularSpore.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Solution.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/Plants.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Pteridophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Magnoliophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Gnetophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Pinophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Ginkgophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Anthocerotophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Bryophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/HeadClassOfBryophytes.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Marchantiophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Charophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Chlorophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Cycadophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Equisetophyta.java" />
+        <option value="$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Lycopodiophyta.java" />
       </list>
     </option>
   </component>
@@ -103,8 +269,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1359" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
     <option name="height" value="364" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -121,7 +292,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,15 +326,13 @@
               <item name="home_works" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,7 +361,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lesson4.task1.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Home_Works" />
+      <envs />
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lesson4.task3.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Home_Works" />
+      <envs />
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lesson4.task4.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Home_Works" />
+      <envs />
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -210,44 +438,6 @@
       <module name="Home_Works" />
       <envs />
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Lesson1.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task2.Task2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Home_Works" />
-      <envs />
-    </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Lesson1.Task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task6.Task6" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Home_Works" />
-      <envs />
-    </configuration>
     <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -256,25 +446,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Lesson1.Task7.Task7" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Home_Works" />
-      <envs />
-    </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Lesson1.Task8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task8.Task8" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -368,19 +539,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Task6" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Task7" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Task8" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Task2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Task7" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Task7" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Task8" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Task2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Task6" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -402,16 +573,19 @@
       <workItem from="1567684056484" duration="1352000" />
       <workItem from="1568095048057" duration="590000" />
       <workItem from="1568105111947" duration="849000" />
-      <workItem from="1568114527952" duration="2202000" />
+      <workItem from="1568114527952" duration="2506000" />
+      <workItem from="1568194874781" duration="2745000" />
+      <workItem from="1568204183325" duration="5037000" />
+      <workItem from="1568471124295" duration="583000" />
+      <workItem from="1568622365966" duration="5157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17173000" />
+    <option name="totallyTimeSpent" value="30999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -421,19 +595,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1603631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -455,255 +629,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task2/Task2.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task8/Task8.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task1.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task2/Task2.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task1/Task1.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task5/Task5.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task4/Task4.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task3/Task3.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task6/Task6.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task7/Task7.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson2/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/Lesson2/src/Solution" />
-    <entry file="file://$PROJECT_DIR$/Lesson1/src/Task8/Task8.java" />
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/Home_Works.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task6/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task4/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task5/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task3/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task2/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task7/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson1/Task8/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/people/Student.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/unalive/Group.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/unalive/Faculty.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/unalive/Cathedra.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/people/Teacher.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/unalive/Auditory.java" />
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Faculty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Cathedra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Auditory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/unalive/Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/people/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/people/StudentFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson3/university/people/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Printer/delegatePrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Printer/outPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Printer/IStudentPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Printer/nullPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Converter/IStudentStringConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentINIConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentJSONConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Converter/StudentXMLConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Student/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson5/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson2/StudentFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home_works/src/Lesson2/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,21 +640,350 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task1/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Wall.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Сeiling.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Room.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Furniture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Couch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Chair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Cabinet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Carpet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/FlowerPot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Chandelier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Accessories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Furniture/Armchair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Accessories/Curtains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Equipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Equipment/audioSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task2/Floor.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/ProductionBuilding.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/OtherBuilding.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/AdministrativeBuilding.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4.java" />
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/CommercialBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/Trees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="69" lean-forward="false" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task3/ResidentialBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Anthocerotophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Bryophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/HeadClassOfBryophytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/bryophytes/Marchantiophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Charophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/Chlorophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/greenAlgae/GreenAlgae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <element signature="method#bubbleSortByName#0;class#Solution#0" expanded="false" />
-            <element signature="method#bubbleSortByAge#0;class#Solution#0" expanded="false" />
-            <element signature="method#findByName#0;class#Solution#0" expanded="false" />
-            <element signature="method#findByNameMoreStudents#0;class#Solution#0" expanded="false" />
-            <element signature="method#print#0;class#Solution#0" expanded="false" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task1/People.java">
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Cycadophyta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Ginkgophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Gnetophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Magnoliophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/Pinophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/seedPlants/SeedPlants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Equisetophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Lycopodiophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/Pteridophyta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/vascularSpore/VascularSpore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/Plants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_works/src/Lesson4/task4/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="45" column="44" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

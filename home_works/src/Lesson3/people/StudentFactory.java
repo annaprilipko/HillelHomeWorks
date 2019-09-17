@@ -1,4 +1,4 @@
-package Lesson3.university.people;
+package Lesson3.people;
 
 public class StudentFactory {
 

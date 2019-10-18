@@ -36,12 +36,16 @@ public class Student {
         this.name = name;
     }
 
+    public Student(String name){
+        this.name = name;
+    }
+
     public Student(){
 
     }
 
     public static void deserialize(String str) throws MyDomainException{
-        new Student();
+        new Student(str);
         throw new MyDomainException();
     }
 
@@ -56,7 +60,7 @@ public class Student {
         }
     }
 
-    public static void catchDeserialize(){
+    public static void deserializeRuntime(){
         String str = "";
 
         try {

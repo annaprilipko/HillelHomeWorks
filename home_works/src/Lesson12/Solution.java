@@ -8,7 +8,7 @@ public class Solution {
 
         String str = "";
 
-        /*try {
+        try {
             Student.deserialize(str);
         } catch (MyDomainException e){
             System.out.println("А вот и ошибочка метода deserialize");
@@ -30,9 +30,9 @@ public class Solution {
             e.printStackTrace();
         }finally {
             System.out.println("Блок finally метода secondDeserialize");
-        }*/
+        }
 
-        Student.catchDeserialize();
+        Student.deserializeRuntime();
 
     }
 }

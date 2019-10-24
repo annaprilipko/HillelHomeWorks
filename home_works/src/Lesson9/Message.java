@@ -28,4 +28,11 @@ public class Message {
 
         return foundedMessages;
     }
+
+    @Override
+
+    public String toString(){
+        return String.format("Messege=%s", this.message);
+
+    }
 }

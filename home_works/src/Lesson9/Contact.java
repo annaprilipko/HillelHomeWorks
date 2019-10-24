@@ -53,7 +53,7 @@ public class Contact {
     @Override
 
     public String toString(){
-        return String.format("name=%s, phoneNumber=%s", name, phoneNumber);
+        return String.format("name=%s, phoneNumber=%s", this.name, this.phoneNumber);
 
     }
 }

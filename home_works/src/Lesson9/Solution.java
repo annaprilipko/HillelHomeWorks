@@ -42,13 +42,24 @@ public class Solution {
         callLogList.add(new CallLog("Heya", "888888888", new Date(), "2 min"));
 
 
-        List<Message> messages = new ArrayList<>();
+        List<Message> listOfMessages = new ArrayList<>();
 
-        messages.add(new Message("Bla-bla-bla", new Date(), "321"));
-        messages.add(new Message("La-la-la-la", new Date(), "321"));
-        messages.add(new Message("Oooooo", new Date(), "321"));
+        listOfMessages.add(new Message("Bla-bla-bla", new Date(), "222222222"));
+        listOfMessages.add(new Message("La-la-la-la", new Date(), "111111111"));
+        listOfMessages.add(new Message("Oooooo", new Date(), "666666666"));
+        listOfMessages.add(new Message("Bla-bla-bla", new Date(), "444444444"));
+        listOfMessages.add(new Message("La-la-la-la", new Date(), "222222222"));
+        listOfMessages.add(new Message("Oooooo", new Date(), "444444444"));
+        listOfMessages.add(new Message("Bla-bla-bla", new Date(), "222222222"));
+        listOfMessages.add(new Message("La-la-la-la", new Date(), "555555555"));
+        listOfMessages.add(new Message("Oooooo", new Date(), "888888888"));
+        listOfMessages.add(new Message("Bla-bla-bla", new Date(), "777777777"));
+        listOfMessages.add(new Message("La-la-la-la", new Date(), "555555555"));
+        listOfMessages.add(new Message("Oooooo", new Date(), "333333333"));
 
-        //  4 задача: группировка звонков по контактам, вывод на экран
+        //  4 задача: группировка звонков по контактам, вывод на экран, test
+
+        System.out.println("Вывод звонков по контактам");
 
         Map<Contact, List<CallLog>> test = new HashMap<>();
 
@@ -56,11 +67,13 @@ public class Solution {
 
         for (Map.Entry<Contact, List<CallLog>> item: test.entrySet()) {
             System.out.println(item.getKey() + ":");
-            List<CallLog>listLogs = item.getValue();
+            List<CallLog> listLogs = item.getValue();
             for (CallLog logs : listLogs) {
                 System.out.println(logs);
             }
         }
+
+        System.out.println("Вывод топ 5 контактов");
 
         // 5 задача, вывод на экран
         List<Pair<Contact,Integer>> listOfTopFiveCalls = new ArrayList<>();
@@ -70,9 +83,35 @@ public class Solution {
             System.out.println(item);
         }
 
+        //6 задача, вывод на экран
 
+        System.out.println("Вывод сообщений по контактам");
+
+        Map<Contact, List<Message>> test2 = new HashMap<>();
+
+        test2 = CombiningContactAndMessage(contactList,listOfMessages);
+
+        for (Map.Entry<Contact, List<Message>> item: test2.entrySet()) {
+            System.out.println(item.getKey() + ":");
+            List<Message>listMessages = item.getValue();
+            for (Message messages : listMessages) {
+                System.out.println(messages);
+            }
+        }
+
+        System.out.println("Вывод топ 5 сообщений");
+
+        // 5 задача, вывод на экран
+        List<Pair<Contact,Integer>> listOfTopFiveMessages = new ArrayList<>();
+        listOfTopFiveMessages = topFiveMasseges(test2);
+
+        for (Pair<Contact,Integer> item: listOfTopFiveMessages) {
+            System.out.println(item);
+        }
     }
-//  4 задача: группировка звонков по контактам
+
+
+    //  4 задача: группировка звонков по контактам
 
     public static Map<Contact, List<CallLog>> CombiningContactAndCallLog(List<Contact> contacts, List<CallLog> callLogs){
 
@@ -108,23 +147,66 @@ public class Solution {
             middleResultTopFiveCalls.add(pair);
         }
 
-
-        Collections.sort(pairIntegers);
-        Collections.reverse(pairIntegers);
-
-        for (int i = 0; i < 5; i++){
-            Integer number = pairIntegers.get(i);
-            for (Pair<Contact,Integer>item: middleResultTopFiveCalls) {
-                if(number.equals(item.getValue())){
-                    Pair<Contact,Integer> pair = new Pair<>(item.getKey(), number);
-                    resultTopFiveCalls.add(pair);
-                }
-
+        Collections.sort(middleResultTopFiveCalls, new Comparator<Pair<Contact, Integer>>() {
+            @Override
+            public int compare(Pair<Contact, Integer> o1, Pair<Contact, Integer> o2) {
+                return Integer.compare(o2.getValue(), o1.getValue());
             }
-        }
+        });
 
+        for (int i = 0; i < 5; i++) {
+            resultTopFiveCalls.add(middleResultTopFiveCalls.get(i));
+        }
 
         return resultTopFiveCalls;
     }
 
+    // 6 задача: Используя отображения, сгруппируйте все сообщения по контактам (Map<Contact, List<Message>>).
+
+    public static Map<Contact, List<Message>> CombiningContactAndMessage(List<Contact> contacts, List<Message> messages){
+
+        Map<Contact, List<Message>> resultOfCombining = new HashMap<>();
+
+        for (Contact contact: contacts) {
+            List<Message> resultOfMessages = new ArrayList<>();
+            for (Message message: messages) {
+                if(contact.phoneNumber.equals(message.phoneNumber)){
+                    resultOfMessages.add(message);
+                }
+            }
+            resultOfCombining.put(contact, resultOfMessages);
+        }
+
+        return resultOfCombining;
+    }
+
+    // 7 задача: Реализуйте вывод топ-5 контактов с наибольшим количеством сообщений (List<Pair<Contact, Integer>>).
+
+    public static List<Pair<Contact,Integer>> topFiveMasseges(Map<Contact, List<Message>> CombiningContactAndMessage){
+        List<Pair<Contact, Integer>> middleResultTopFiveMasseges= new ArrayList<>();
+        List<Pair<Contact, Integer>> resultTopFiveMasseges = new ArrayList<>();
+
+        List<Integer> pairIntegers = new ArrayList<>();
+
+        for (Map.Entry<Contact, List<Message>> item: CombiningContactAndMessage.entrySet()) {
+            List<Message>listMesseges = item.getValue();
+            Integer numberOfMesseges = listMesseges.size();
+            pairIntegers.add(numberOfMesseges);
+            Pair<Contact,Integer> pair = new Pair<>(item.getKey(),numberOfMesseges);
+            middleResultTopFiveMasseges.add(pair);
+        }
+
+        Collections.sort(middleResultTopFiveMasseges, new Comparator<Pair<Contact, Integer>>() {
+            @Override
+            public int compare(Pair<Contact, Integer> o1, Pair<Contact, Integer> o2) {
+                return Integer.compare(o2.getValue(), o1.getValue());
+            }
+        });
+
+        for (int i = 0; i < 5; i++) {
+            resultTopFiveMasseges.add(middleResultTopFiveMasseges.get(i));
+        }
+
+        return resultTopFiveMasseges;
+    }
 }
